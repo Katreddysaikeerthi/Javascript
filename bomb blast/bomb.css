@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color: blueviolet;
+}
+#image{
+    width: 200px;
+    margin: 20px 0;
+}
+#timer{
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+}
